@@ -1,5 +1,4 @@
-﻿# first-repo
+﻿# TypeScript examples
 
-This is my first created repo 📂🙃. 
-
-Now i'm just adding some lines to complete the GitHub getting started guide.
+Here I have some tutorials I took to practice TS
+📂
